@@ -1,0 +1,15 @@
+credentials:
+  usernames:
+    admin:
+      email: admin@example.com
+      name: Admin
+      password: '123'
+
+cookie:
+  name: realestateapp
+  key: some_secret_key
+  expiry_days: 30
+
+preauthorized:
+  emails:
+    - admin@example.com
